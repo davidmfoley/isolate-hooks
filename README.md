@@ -24,6 +24,6 @@ All functionality and APIs are unchanged, so the migration should be fairly pain
 More info:
 
 ## [isolate-react on npm](https://www.npmjs.com/package/isolate-react)
-## [isolate-react on github](https://github.com/davidmfoley/isolate-react
+## [isolate-react on github](https://github.com/davidmfoley/isolate-react)
 ## [isolate-react documentation](https://davidmfoley.github.io/isolate-react)
 
